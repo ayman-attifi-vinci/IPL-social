@@ -12,5 +12,5 @@ Ce projet est un exemple de pipeline DevOps utilisant GitHub Actions pour l'int√
 
 ## Lancer les Tests
 Pour lancer les tests, utilisez la commande suivante :
-```sh
+
 npm test
